@@ -1,0 +1,4 @@
+0000: process image... 01251_32 | Dice=0.745721 | Prec=0.818533 | Jacc=0.594542 
+0001: process image... 02208_30 | Dice=0.745527 | Prec=0.791569 | Jacc=0.594295 
+score_case | Dice=0.745624 | Precision=0.805051 | Jaccard=0.594419 
+S_std_case | Dice=0.000097 | Precision=0.013482 | Jaccard=0.000123 
