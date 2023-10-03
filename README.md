@@ -30,7 +30,7 @@ python3 main.py -p test -c config/test.json
 
 ## Pre-trained Models
 
-You can download our pre-trained model of the XCAD dataset [here](https://drive.google.com/).
+You can download our pre-trained model of the XCAD dataset [here](https://drive.google.com/file/d/180xRhnpAsT6ZrM-FrMTZ6AVkqnfBBqYm/view?usp=sharing).
 Then, you can test the model by saving the pre-trained weights in the directory ./experiments/pretrained_model.
 To briefly test our method given the pre-trained model, we provided the toy example in the directory './data/'.
 
