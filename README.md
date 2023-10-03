@@ -2,7 +2,7 @@
 Official repository for "C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation"
 [[arXiv](https://arxiv.org/abs/2308.00193)]
 
-![Image of The Proposed method](figs/method.png)
+![Image of The Proposed method](fig/method.png)
 
 ## Requirements
   * OS : Ubuntu
