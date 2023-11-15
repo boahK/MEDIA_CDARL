@@ -1,6 +1,6 @@
 # MEDIA_CDARL
 Official repository for "C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation"
-[[arXiv](https://arxiv.org/abs/2308.00193)]
+[[arXiv](https://arxiv.org/abs/2308.00193)][[Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841523002827?dgcid=coauthor)]
 
 ![Image of The Proposed method](fig/method.png)
 
@@ -37,11 +37,15 @@ To briefly test our method given the pre-trained model, we provided the toy exam
 ## Citations
 
 ```
-@article{kim2023c,
-  title={C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation},
-  author={Kim, Boah and Oh, Yujin and Wood, Bradford J and Summers, Ronald M and Ye, Jong Chul},
-  journal={arXiv preprint arXiv:2308.00193},
-  year={2023}
+@article{kim2024cdarl,
+title = {C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation},
+journal = {Medical Image Analysis},
+volume = {91},
+pages = {103022},
+year = {2024},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2023.103022},
+author = {Boah Kim and Yujin Oh and Bradford J. Wood and Ronald M. Summers and Jong Chul Ye}
 }
 ```
 
