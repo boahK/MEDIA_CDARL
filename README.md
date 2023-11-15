@@ -1,5 +1,6 @@
 # MEDIA_CDARL
-Official repository for "C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation"
+Official repository for "C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation" published in Medical Image Analysis.
+
 [[arXiv](https://arxiv.org/abs/2308.00193)][[Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841523002827?dgcid=coauthor)]
 
 ![Image of The Proposed method](fig/method.png)
